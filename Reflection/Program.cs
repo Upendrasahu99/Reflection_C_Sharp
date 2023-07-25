@@ -6,7 +6,12 @@ namespace Reflection
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            TypeClassEx type = new TypeClassEx();
+
+            type.TypeOfVariable(); // Type of variable
+            type.TypeOfClass(); // Type of class 'TypeClassEx'
+            type.InformationAboutEnumerable();  
+            Console.ReadLine();
         }
     }
 }
