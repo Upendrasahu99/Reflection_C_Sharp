@@ -1,0 +1,14 @@
+D:\CS\C#.NET\TopicWiseCode\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.exe
+D:\CS\C#.NET\TopicWiseCode\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.deps.json
+D:\CS\C#.NET\TopicWiseCode\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.json
+D:\CS\C#.NET\TopicWiseCode\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.dev.json
+D:\CS\C#.NET\TopicWiseCode\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.dll
+D:\CS\C#.NET\TopicWiseCode\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.pdb
+D:\CS\C#.NET\TopicWiseCode\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.AssemblyReference.cache
+D:\CS\C#.NET\TopicWiseCode\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\C#.NET\TopicWiseCode\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfoInputs.cache
+D:\CS\C#.NET\TopicWiseCode\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfo.cs
+D:\CS\C#.NET\TopicWiseCode\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.CoreCompileInputs.cache
+D:\CS\C#.NET\TopicWiseCode\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.dll
+D:\CS\C#.NET\TopicWiseCode\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.pdb
+D:\CS\C#.NET\TopicWiseCode\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.genruntimeconfig.cache
